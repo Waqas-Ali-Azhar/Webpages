@@ -38,8 +38,8 @@ require_once __DIR__.'/Facebook/autoload.php';
 // 
 // # login-callback.php
 $fb = new \Facebook\Facebook([
-  'app_id' => '300000430675485',
-  'app_secret' => '98cfa892094874413da70c655b43c6da',
+  'app_id' => '231503037392924',
+  'app_secret' => '9d62ee86f35b4682f5935fc38922f03b',
   'default_graph_version' => 'v2.10',
   //'default_access_token' => '{access-token}', // optional
 ]);
